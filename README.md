@@ -4,8 +4,6 @@
 카카오에서 서비스 중 인 작가들의 블로그 사이트인 Brunch의 클론코딩 프로젝트입니다.<br>
 <b>Branch</b> 프로젝트는 개발자들의 블로그로 개발문화와 지식을 공유하는 사이트입니다.</p>
 
----
-
 ## 개발 인원 및 기간
 
 개발기간 : 2021/11/29~2021/12/10<br>
@@ -16,8 +14,6 @@
 `Front-End` : JavaScript, React.js, SASS, React-router-dom<br>
 `Back-End` : Django, Python, MySQL<br>
 `Common` : Git, Github, Slack, Trello, Notion<br>
-
----
 
 ## [Front-End]
 
